@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Tugas-2",
-    "slug": "Tugas-2",
+    "name": "Pertemuan3",
+    "slug": "Pertemuan3-3",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,9 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
